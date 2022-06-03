@@ -1,11 +1,11 @@
 /**
  * Base By Dika Ardnt.
- * Recode By Romli Suhanda
+ * Recode By Hendra
  * Sc Ya Gua Enc
  * Harga Sc No Enc 20k
  * Kalau Mau Recode, Edit Aja Di confiq.js
- * Contact Me On wa.me/6281322667077
- * Follow https://github.com/romlisuhanda
+ * Contact Me On http://Wa.me/436507000206999
+ * Follow 
  */
 
 //gausah di apa² in!
@@ -15,29 +15,29 @@ const chalk = require('chalk')
 //—————「 Website Apikey 」—————//
 global.APIs = {
     //gausah di apa² in!
-    zenz: 'https://zenzapis.xyz',
+    zenz: '',
 }
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
     //gausah di apa² in, udah free apikey :)
-    'https://zenzapis.xyz': 'GuaAbuzz17',
+    '': 'GuaAbuzz17',
 }
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'ZxyuuBotz'
-global.namaowner = 'Romli Suhanda'
+global.namabot = 'HendraBotz'
+global.namaowner = 'Hendra'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281322667077', '6281215710461']
-global.premium = ['6281215710461']
+global.owner = ['436507000206', '436507000206']
+global.premium = ['436507000206']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6281224804625']
-global.telkomsel = ['6281215710461']
+global.telkomsel = ['6283181085070']
+global.telkomsel = ['6283181085070']
 global.indosat = ['-']
 global.tri = ['-']
 global.smartfren = ['-']
@@ -48,13 +48,13 @@ global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/romlisuhanda'
-global.scbot = 'https://github.com/romlisuhanda/Asuna'
+global.github = ''
+global.scbot = ''
 global.myweb = '-'
 
 //—————「 Set Wm 」—————//
-global.packname = 'ZxyuuRomz'
-global.author = 'Xzyuu Naii'
+global.packname = 'Hendra'
+global.author = 'Hendra '
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
