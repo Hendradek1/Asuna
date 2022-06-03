@@ -31,8 +31,8 @@ global.namaowner = 'Hendra'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['436507000206', '436507000206']
-global.premium = ['436507000206']
+global.owner = ['436507000206999', '436507000206999']
+global.premium = ['436507000206999']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
